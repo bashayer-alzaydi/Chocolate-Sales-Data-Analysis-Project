@@ -1,7 +1,7 @@
 # Chocolate-Sales-Data-Analysis-Project
 
 ## Project Overview
-This project aims to analyze chocolate sales data to gain insights into product performance, market trends, and regional variations. The dataset comprises four primary tables: Sales, Products, people, and sales. Each table provides crucial information about sales transactions, product details, and geographical regions.
+This project aims to analyze chocolate sales data to gain insights into product performance, market trends, and regional variations. The dataset comprises four primary tables: Sales, Products, people, and geographical. Each table provides crucial information about sales transactions, product details, and geographical regions.
 
 ## Data Structure
 The project relies on a relational database consisting of four key tables:
