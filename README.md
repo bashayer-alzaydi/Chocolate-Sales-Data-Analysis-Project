@@ -27,11 +27,11 @@ The top 3 selling products are
 
  Regional Sales Performance:
 
-Sales in the regions are close, there is no significant difference.
+- Sales in the regions are close, there is no significant difference.
 
 Recommendations:
 
-Based on the results of the analysis, it was suggested to increase the number of products with sales representatives and geographical expansion of sales, while developing advertising campaigns to promote the products and placing special discounts for the most demanding customers.
+- Based on the results of the analysis, it was suggested to increase the number of products with sales representatives and geographical expansion of sales, while developing advertising campaigns to promote the products and placing special discounts for the most demanding customers.
 
 ## How to use
 
