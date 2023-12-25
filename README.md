@@ -15,20 +15,26 @@ people Table: Contains sales person information.
 Regions Table: Provides information about geographical regions relevant to the sales data.
 
 ## Objectives
-Product Performance Analysis:
+### Product Performance Analysis:
 
-The top 3 selling products are:
+The top 3 selling products are
 
-1- Orange Choco
+- Orange Choco
 
-2- White Choco
+- White Choco
 
-3- Organic.
+- Organic.
 
-Market Trends Examination: Analyze temporal trends in sales to identify peak demand periods and understand market dynamics.
+### Regional Sales Performance:
 
-Factors Affecting Success: Investigate factors influencing the success of products, such as pricing and marketing strategies.
+Sales in the regions are close, there is no significant difference.
 
-Regional Sales Performance: Analyze sales data by region to identify promising markets and regional variations.
+### Recommendations:
 
-Recommendations: Derive conclusions and recommendations based on the analysis to improve sales performance.
+Based on the results of the analysis, it was suggested to increase the number of products with sales representatives and geographical expansion of sales, while developing advertising campaigns to promote the products and placing special discounts for the most demanding customers.
+
+## How to use
+
+Data Import: I used the provided database to import the data needed for the analysis.
+
+Data analysis: I used the SQL database to analyze the data, and I used Microsoft Power BI for dashboarding and visualization
